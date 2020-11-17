@@ -1,0 +1,27 @@
+{
+  "name": "ao5-gallery",
+  "version": "1.0.0",
+  "description": "Ao5 Gallery Shopify website development",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "shopify-themekit deploy",
+    "download": "shopify-themekit download",
+    "get": "shopify-themekit get",
+    "open": "shopify-themekit open",
+    "remove": "shopify-themekit remove",
+    "watch": "shopify-themekit watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobykeod/ao5-gallery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobykeod/ao5-gallery/issues"
+  },
+  "homepage": "https://github.com/tobykeod/ao5-gallery#readme",
+  "devDependencies": {
+    "@shopify/themekit": "^1.1.6"
+  }
+}
